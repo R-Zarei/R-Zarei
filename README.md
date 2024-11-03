@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=50&pause=1000&color=757575&background=FFFFFF00&center=true&vCenter=true&width=800&height=48&lines=Reza+Zarei" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" style="margin-top: 15px;"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=50&pause=1000&color=757575&background=FFFFFF00&center=true&vCenter=true&width=800&height=48&lines=Reza+Zarei" alt="Typing SVG" /></a>
 
 - 👋 Hi, I’m Reza
 - 👀 I’m interested in ...
