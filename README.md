@@ -2,7 +2,7 @@
 
 <p align="center"><a href="mailto:rzareei672@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-rzareei672@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rzareei672@gmail.com" alt="Gmail" /></a>&nbsp; <a href="https://linkedin.com/in/r-zarei" target="_blank"><img src="https://img.shields.io/badge/-r zarei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/r-zarei" alt="LinkedIn" /></a>&nbsp;
 <br><br>
-
+<p>Hello, I am a computer engineering student with an interest in the field of Back-End Web Development, and I am currently learning the necessary skills for it.</p>
 <h3 align="center">My Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
