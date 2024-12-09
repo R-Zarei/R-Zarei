@@ -2,7 +2,7 @@
 
 <p align="center"><a href="mailto:rzareei672@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-rzareei672@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rzareei672@gmail.com" alt="Gmail" /></a>&nbsp; <a href="https://linkedin.com/in/r-zarei" target="_blank"><img src="https://img.shields.io/badge/-r zarei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/r-zarei" alt="LinkedIn" /></a>&nbsp;
 <br><br><br><br><br>
-### My Skills
+### My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,python,mysql,cpp,html,css,git,github,vim" />
