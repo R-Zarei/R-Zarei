@@ -4,7 +4,7 @@
 <br><br>
 <p align="center">Hello, I am a computer engineering student with an interest in the field of Back-End Web Development, and I am currently learning the necessary skills for it.</p>
 <br>
-<h3 align="center">My Skills</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,python,mysql,cpp,html,css,git,github,vim" />
