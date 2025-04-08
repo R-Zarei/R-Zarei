@@ -22,7 +22,7 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,python,mysql,cpp,html,css,git,github,regex,vim" />
+    <img src="https://skillicons.dev/icons?i=django,python,mysql,cpp,html,css,jquery,git,github,regex,vim" />
   </a>
 </p>
 
