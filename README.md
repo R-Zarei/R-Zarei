@@ -21,7 +21,7 @@
 <br>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+<!--   <a href="https://skillicons.dev"> -->
 <!--     <img src="https://skillicons.dev/icons?i=django,python,mysql,cpp,html,css,jquery,git,github,regex,vim" /> -->
     [<img src="https://skillicons.dev/icons?i=django" width="40" />](https://www.djangoproject.com/)
     [<img src="https://skillicons.dev/icons?i=python" width="40" />](https://www.python.org/)
@@ -34,7 +34,7 @@
     [<img src="https://skillicons.dev/icons?i=github" width="40" />](https://github.com/)
     [<img src="https://skillicons.dev/icons?i=regex" width="40" />](https://regexr.com/)
     [<img src="https://skillicons.dev/icons?i=vim" width="40" />](https://www.vim.org/)
-  </a>
+<!--   </a> -->
 </p>
 
 
