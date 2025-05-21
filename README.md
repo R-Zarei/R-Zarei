@@ -23,18 +23,18 @@
 <p align="center">
 <!--   <a href="https://skillicons.dev"> -->
 <!--     <img src="https://skillicons.dev/icons?i=django,python,mysql,cpp,html,css,jquery,git,github,regex,vim" /> -->
-    [<img src="https://skillicons.dev/icons?i=django" width="40" />](https://www.djangoproject.com/)
-    [<img src="https://skillicons.dev/icons?i=python" width="40" />](https://www.python.org/)
-    [<img src="https://skillicons.dev/icons?i=mysql" width="40" />](https://www.mysql.com/)
-    [<img src="https://skillicons.dev/icons?i=cpp" width="40" />](https://isocpp.org/)
-    [<img src="https://skillicons.dev/icons?i=html" width="40" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-    [<img src="https://skillicons.dev/icons?i=css" width="40" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    [<img src="https://skillicons.dev/icons?i=jquery" width="40" />](https://jquery.com/)
-    [<img src="https://skillicons.dev/icons?i=git" width="40" />](https://git-scm.com/)
-    [<img src="https://skillicons.dev/icons?i=github" width="40" />](https://github.com/)
-    [<img src="https://skillicons.dev/icons?i=regex" width="40" />](https://regexr.com/)
-    [<img src="https://skillicons.dev/icons?i=vim" width="40" />](https://www.vim.org/)
 <!--   </a> -->
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="40" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" /></a>
+  <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" width="40" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+  <a href="https://regexr.com/"><img src="https://skillicons.dev/icons?i=regex" width="40" /></a>
+  <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" width="40" /></a>
 </p>
 
 
