@@ -28,6 +28,7 @@
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" /></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40" /></a>
+  <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" /></a>
   <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" width="40" /></a>
