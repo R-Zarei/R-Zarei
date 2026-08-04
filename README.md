@@ -28,15 +28,17 @@
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" /></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40" /></a>
-  <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" /></a>
   <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://skillicons.dev/icons?i=linux" width="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://skillicons.dev/icons?i=bash" width="40" /></a>
+  <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" /></a>
   <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" width="40" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://regexr.com/"><img src="https://skillicons.dev/icons?i=regex" width="40" /></a>
   <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" width="40" /></a>
+  <a href="https://regexr.com/"><img src="https://skillicons.dev/icons?i=regex" width="40" /></a>
 </p>
 
 
